@@ -1,0 +1,15 @@
+C:\Users\jaff\Desktop\c#\lesson1\test2_summ\bin\Debug\net6.0\test2_summ.exe
+C:\Users\jaff\Desktop\c#\lesson1\test2_summ\bin\Debug\net6.0\test2_summ.deps.json
+C:\Users\jaff\Desktop\c#\lesson1\test2_summ\bin\Debug\net6.0\test2_summ.runtimeconfig.json
+C:\Users\jaff\Desktop\c#\lesson1\test2_summ\bin\Debug\net6.0\test2_summ.dll
+C:\Users\jaff\Desktop\c#\lesson1\test2_summ\bin\Debug\net6.0\test2_summ.pdb
+C:\Users\jaff\Desktop\c#\lesson1\test2_summ\obj\Debug\net6.0\test2_summ.csproj.AssemblyReference.cache
+C:\Users\jaff\Desktop\c#\lesson1\test2_summ\obj\Debug\net6.0\test2_summ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaff\Desktop\c#\lesson1\test2_summ\obj\Debug\net6.0\test2_summ.AssemblyInfoInputs.cache
+C:\Users\jaff\Desktop\c#\lesson1\test2_summ\obj\Debug\net6.0\test2_summ.AssemblyInfo.cs
+C:\Users\jaff\Desktop\c#\lesson1\test2_summ\obj\Debug\net6.0\test2_summ.csproj.CoreCompileInputs.cache
+C:\Users\jaff\Desktop\c#\lesson1\test2_summ\obj\Debug\net6.0\test2_summ.dll
+C:\Users\jaff\Desktop\c#\lesson1\test2_summ\obj\Debug\net6.0\refint\test2_summ.dll
+C:\Users\jaff\Desktop\c#\lesson1\test2_summ\obj\Debug\net6.0\test2_summ.pdb
+C:\Users\jaff\Desktop\c#\lesson1\test2_summ\obj\Debug\net6.0\test2_summ.genruntimeconfig.cache
+C:\Users\jaff\Desktop\c#\lesson1\test2_summ\obj\Debug\net6.0\ref\test2_summ.dll
