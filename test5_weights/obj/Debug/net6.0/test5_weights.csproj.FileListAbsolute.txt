@@ -1,0 +1,15 @@
+C:\Users\jaff\Desktop\c#\lesson1\test5_weights\bin\Debug\net6.0\test5_weights.exe
+C:\Users\jaff\Desktop\c#\lesson1\test5_weights\bin\Debug\net6.0\test5_weights.deps.json
+C:\Users\jaff\Desktop\c#\lesson1\test5_weights\bin\Debug\net6.0\test5_weights.runtimeconfig.json
+C:\Users\jaff\Desktop\c#\lesson1\test5_weights\bin\Debug\net6.0\test5_weights.dll
+C:\Users\jaff\Desktop\c#\lesson1\test5_weights\bin\Debug\net6.0\test5_weights.pdb
+C:\Users\jaff\Desktop\c#\lesson1\test5_weights\obj\Debug\net6.0\test5_weights.csproj.AssemblyReference.cache
+C:\Users\jaff\Desktop\c#\lesson1\test5_weights\obj\Debug\net6.0\test5_weights.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaff\Desktop\c#\lesson1\test5_weights\obj\Debug\net6.0\test5_weights.AssemblyInfoInputs.cache
+C:\Users\jaff\Desktop\c#\lesson1\test5_weights\obj\Debug\net6.0\test5_weights.AssemblyInfo.cs
+C:\Users\jaff\Desktop\c#\lesson1\test5_weights\obj\Debug\net6.0\test5_weights.csproj.CoreCompileInputs.cache
+C:\Users\jaff\Desktop\c#\lesson1\test5_weights\obj\Debug\net6.0\test5_weights.dll
+C:\Users\jaff\Desktop\c#\lesson1\test5_weights\obj\Debug\net6.0\refint\test5_weights.dll
+C:\Users\jaff\Desktop\c#\lesson1\test5_weights\obj\Debug\net6.0\test5_weights.pdb
+C:\Users\jaff\Desktop\c#\lesson1\test5_weights\obj\Debug\net6.0\test5_weights.genruntimeconfig.cache
+C:\Users\jaff\Desktop\c#\lesson1\test5_weights\obj\Debug\net6.0\ref\test5_weights.dll
