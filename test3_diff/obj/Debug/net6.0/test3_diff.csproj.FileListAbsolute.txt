@@ -1,0 +1,15 @@
+C:\Users\jaff\Desktop\c#\lesson1\test3_diff\bin\Debug\net6.0\test3_diff.exe
+C:\Users\jaff\Desktop\c#\lesson1\test3_diff\bin\Debug\net6.0\test3_diff.deps.json
+C:\Users\jaff\Desktop\c#\lesson1\test3_diff\bin\Debug\net6.0\test3_diff.runtimeconfig.json
+C:\Users\jaff\Desktop\c#\lesson1\test3_diff\bin\Debug\net6.0\test3_diff.dll
+C:\Users\jaff\Desktop\c#\lesson1\test3_diff\bin\Debug\net6.0\test3_diff.pdb
+C:\Users\jaff\Desktop\c#\lesson1\test3_diff\obj\Debug\net6.0\test3_diff.csproj.AssemblyReference.cache
+C:\Users\jaff\Desktop\c#\lesson1\test3_diff\obj\Debug\net6.0\test3_diff.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaff\Desktop\c#\lesson1\test3_diff\obj\Debug\net6.0\test3_diff.AssemblyInfoInputs.cache
+C:\Users\jaff\Desktop\c#\lesson1\test3_diff\obj\Debug\net6.0\test3_diff.AssemblyInfo.cs
+C:\Users\jaff\Desktop\c#\lesson1\test3_diff\obj\Debug\net6.0\test3_diff.csproj.CoreCompileInputs.cache
+C:\Users\jaff\Desktop\c#\lesson1\test3_diff\obj\Debug\net6.0\test3_diff.dll
+C:\Users\jaff\Desktop\c#\lesson1\test3_diff\obj\Debug\net6.0\refint\test3_diff.dll
+C:\Users\jaff\Desktop\c#\lesson1\test3_diff\obj\Debug\net6.0\test3_diff.pdb
+C:\Users\jaff\Desktop\c#\lesson1\test3_diff\obj\Debug\net6.0\test3_diff.genruntimeconfig.cache
+C:\Users\jaff\Desktop\c#\lesson1\test3_diff\obj\Debug\net6.0\ref\test3_diff.dll
